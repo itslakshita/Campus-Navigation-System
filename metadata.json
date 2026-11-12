@@ -1,6 +1,0 @@
-{
-  "name": "Campus Navigation System (Dijkstra Algorithm)",
-  "description": "Interactive campus navigation desktop app built with Java Swing and Dijkstra's algorithm for shortest walking routes.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
